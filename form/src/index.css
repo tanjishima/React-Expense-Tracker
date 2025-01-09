@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+label {
+    text-align: left;
+}
+select.select.select-bordered.w-full.max-w-xs {
+    display: flex;
+    flex-direction: column;
+   }
